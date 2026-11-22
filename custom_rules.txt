@@ -1,3 +1,4 @@
+## Custom Filtering Rules  -- Updated on 23/11/2026 ##
 ## To use Facebook/Instagram apps with Hagezi Ultimate
 #@@||b-graph.facebook.com^
 #@@||b-graph-fallback.facebook.com^
@@ -16,14 +17,19 @@
 #@@||mqtt-mini.facebook.com^
 #@@||web.facebook.com^
 ## End of unblock for Facebook/Instagram
-
-## Custom unblock
+## https://en.wikipedia.org/wiki/1337x 
+## 1337x website unblock
+#@@||1337x.to
+#@@||1337x.st
+#@@||x1337x.cc
+#@@||x1337x.ws
+#@@||x1337x.eu
+#@@||x1337x.se
+## Custom Unblock
 @@||honeygain.com^
 @@||revanced.net^
 @@||brave.com^
-
 ## Custom block
 ||s.youtube.com^
-||gemini.google.com^
-||adnxs.com^
 ||doubleclick.net^
+||adnxs.com^
