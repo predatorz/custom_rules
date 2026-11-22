@@ -16,6 +16,7 @@
 #@@||mqtt-mini.facebook.com^
 #@@||web.facebook.com^
 ## End of unblock for Facebook/Instagram
+
 ## Custom block
 ||s.youtube.com^
 ## Custom unblock
