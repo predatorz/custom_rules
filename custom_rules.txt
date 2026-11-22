@@ -21,6 +21,7 @@
 @@||honeygain.com^
 @@||revanced.net^
 @@||brave.com^
+
 ## Custom block
 ||s.youtube.com^
 ||gemini.google.com^
