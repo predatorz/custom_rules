@@ -17,9 +17,10 @@
 #@@||web.facebook.com^
 ## End of unblock for Facebook/Instagram
 
-## Custom block
-||s.youtube.com^
 ## Custom unblock
 @@||honeygain.com^
 @@||revanced.net^
 @@||brave.com^
+## Custom block
+||s.youtube.com^
+||gemini.google.com^
