@@ -24,3 +24,4 @@
 ## Custom block
 ||s.youtube.com^
 ||gemini.google.com^
+||adnxs.com^
