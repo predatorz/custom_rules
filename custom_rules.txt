@@ -25,3 +25,4 @@
 ||s.youtube.com^
 ||gemini.google.com^
 ||adnxs.com^
+||doubleclick.net^
