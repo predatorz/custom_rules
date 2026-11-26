@@ -1,4 +1,4 @@
-## Custom Filtering Rules  -- Updated on 23/11/2026 ##
+## Custom Filtering Rules  -- Updated on 27/11/2026 ##
 ## To use Facebook/Instagram apps with Hagezi Ultimate
 #@@||b-graph.facebook.com^
 #@@||b-graph-fallback.facebook.com^
@@ -29,7 +29,3 @@
 @@||honeygain.com^
 @@||revanced.net^
 @@||brave.com^
-## Custom block
-||s.youtube.com^
-||doubleclick.net^
-||adnxs.com^
